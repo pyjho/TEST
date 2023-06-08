@@ -1,0 +1,7 @@
+git test
+1
+2
+34 ddd
+:wq
+
+
